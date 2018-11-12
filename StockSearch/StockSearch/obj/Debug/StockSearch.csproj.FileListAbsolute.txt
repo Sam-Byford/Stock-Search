@@ -1,0 +1,7 @@
+C:\Users\samby\source\repos\StockSearch\StockSearch\bin\Debug\StockSearch.exe.config
+C:\Users\samby\source\repos\StockSearch\StockSearch\bin\Debug\StockSearch.exe
+C:\Users\samby\source\repos\StockSearch\StockSearch\bin\Debug\StockSearch.pdb
+C:\Users\samby\source\repos\StockSearch\StockSearch\obj\Debug\StockSearch.csprojResolveAssemblyReference.cache
+C:\Users\samby\source\repos\StockSearch\StockSearch\obj\Debug\StockSearch.csproj.CoreCompileInputs.cache
+C:\Users\samby\source\repos\StockSearch\StockSearch\obj\Debug\StockSearch.exe
+C:\Users\samby\source\repos\StockSearch\StockSearch\obj\Debug\StockSearch.pdb
