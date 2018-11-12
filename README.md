@@ -22,5 +22,5 @@ The Console Application then needed to be able to provide the following function
 
 We were NOT allowed to use any built-in sorting and searching functions from any built-in or external C# library.
 
-
+The stock information is stored in the 'bin' folder and program.cs is the main code file
 
